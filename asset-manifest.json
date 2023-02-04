@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ozgebayram/tourPlaces-sass/static/css/main.daed33bb.css",
-    "main.js": "/ozgebayram/tourPlaces-sass/static/js/main.eb871634.js",
-    "static/js/787.9dfa1395.chunk.js": "/ozgebayram/tourPlaces-sass/static/js/787.9dfa1395.chunk.js",
-    "index.html": "/ozgebayram/tourPlaces-sass/index.html",
-    "main.daed33bb.css.map": "/ozgebayram/tourPlaces-sass/static/css/main.daed33bb.css.map",
-    "main.eb871634.js.map": "/ozgebayram/tourPlaces-sass/static/js/main.eb871634.js.map",
-    "787.9dfa1395.chunk.js.map": "/ozgebayram/tourPlaces-sass/static/js/787.9dfa1395.chunk.js.map"
+    "main.css": "/tourPlaces-sass/static/css/main.daed33bb.css",
+    "main.js": "/tourPlaces-sass/static/js/main.d86b61ad.js",
+    "static/js/787.9dfa1395.chunk.js": "/tourPlaces-sass/static/js/787.9dfa1395.chunk.js",
+    "index.html": "/tourPlaces-sass/index.html",
+    "main.daed33bb.css.map": "/tourPlaces-sass/static/css/main.daed33bb.css.map",
+    "main.d86b61ad.js.map": "/tourPlaces-sass/static/js/main.d86b61ad.js.map",
+    "787.9dfa1395.chunk.js.map": "/tourPlaces-sass/static/js/787.9dfa1395.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daed33bb.css",
-    "static/js/main.eb871634.js"
+    "static/js/main.d86b61ad.js"
   ]
 }
