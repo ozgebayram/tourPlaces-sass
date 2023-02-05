@@ -1,5 +1,5 @@
 
-# Project-Sass : Tour Places (RP-01)
+# Project-Sass : Tour Places 
 
 #Live Project : https://ozgebayram.github.io/tourPlaces-sass/
 
@@ -14,7 +14,7 @@ Project aims to create a tour places app.
 ## Project Skeleton
 
 ```
-001-Tour Project(folder)
+----Tour Project(folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
