@@ -1,7 +1,7 @@
 
 # Project-Sass : Tour Places 
 
-#Live Project : https://ozgebayram.github.io/tourPlaces-sass/
+## Check The Live Website : https://ozgebayram.github.io/tourPlaces-sass/
 
 ## Description
 
