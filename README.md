@@ -41,7 +41,7 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
+## Visualization of the Website
 
 ![Project 001 Snapshot](tour-project.gif)
 
